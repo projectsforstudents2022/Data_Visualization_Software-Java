@@ -9,16 +9,15 @@
 
 3) Next, open IDE and run this command
 
-'''javascript
+```sh
 
 java -jar data_visualisation.jar
 
-'''
+```
+4) Your code is successfully compiled !
 
-![image](https://user-images.githubusercontent.com/113504878/194480097-055d2c2a-2b47-448e-a73d-55ff30c39541.png)
+![image](Frontend.png)
 
-4) Right click the project folder [CurrencyConverterJava] and click Run
+![image](visual.png)
 
-![image](https://user-images.githubusercontent.com/113504878/194480279-d505b7a6-6957-47ec-98e9-0468d219db05.png)
-
-5) Your code is successfully compiled !
+![image](visuall.png)
